@@ -305,3 +305,17 @@ footer span { color: #94A3B8; }
   .caratula-body { padding: 24px 18px; }
   .page-container { padding: 36px 18px 60px; }
 }
+
+/* CHART FIGURE */
+.chart-figure {
+  margin: 32px 0;
+  text-align: center;
+}
+.chart-img {
+  max-width: 100%;
+  width: 680px;
+  border-radius: 8px;
+  box-shadow: 0 2px 16px rgba(0,0,0,.10);
+  display: block;
+  margin: 0 auto;
+}
